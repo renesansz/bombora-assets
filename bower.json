@@ -6,7 +6,7 @@
   ],
   "keywords": ["f45-bombora", "bombora"],
   "main": [
-
+    "index.js"
   ],
   "repository": {
     "type": "git",
