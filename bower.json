@@ -1,0 +1,22 @@
+{
+  "name": "bombora-theme-assets",
+  "description": "Theme asset vendors for F45-Bombora",
+  "authors": [
+    "Renemari Padillo <rene@bywave.com.au>"
+  ],
+  "keywords": ["f45-bombora", "bombora"],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renesansz/bombora-assets"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
