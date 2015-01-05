@@ -5,7 +5,9 @@
     "Renemari Padillo <rene@bywave.com.au>"
   ],
   "keywords": ["f45-bombora", "bombora"],
-  "main": "",
+  "main": [
+
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/renesansz/bombora-assets"
@@ -17,6 +19,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "private": true
+  ]
 }
